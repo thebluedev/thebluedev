@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! 👋
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,bash,bootstrap,figma,python,git,ai,java,mongodb,nodejs,ps,postman,powershell)](https://skillicons.dev)
 
 <!--
 **thebluedev/thebluedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
