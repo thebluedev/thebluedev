@@ -15,10 +15,10 @@ Design/Media related skills:
 
 ![My Skills](https://skillicons.dev/icons?i=ae,figma,ai,ps)
 
-<p float="left">
+<!-- <p float="left">
  <img src="https://github-readme-stats.vercel.app/api?username=thebluedev" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebluedev" alt="ovi"/>
-</p>
+</p> -->
 
 <!--
 **thebluedev/thebluedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
