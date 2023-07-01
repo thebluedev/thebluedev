@@ -13,7 +13,8 @@ Development related skills:
 
 Design/Media related skills:
 
-![My Skills](https://skillicons.dev/icons?i=ae,figma,ai,ps)
+![My Skills](https://skillicons.dev/icons?i=ae,figma,ai,ps) 
+And more!
 
 <!-- <p float="left">
  <img src="https://github-readme-stats.vercel.app/api?username=thebluedev" alt="my Github Stats"/>
