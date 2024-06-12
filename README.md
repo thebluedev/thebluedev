@@ -11,5 +11,3 @@ Web development<br>I'm a generalist that's passionate about all things computers
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thebluedev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
